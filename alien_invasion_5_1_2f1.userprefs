@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\AlienShaderLOD3.shader">
+    <Files>
+      <File FileName="Assets\Scripts\Blob_Controller.cs" Line="66" Column="46" />
+      <File FileName="Assets\Scripts\CreateRain.cs" Line="52" Column="4" />
+      <File FileName="Assets\Shaders\AlienShaderLOD2.shader" Line="259" Column="41" />
+      <File FileName="Assets\Shaders\AlienShaderLOD1.shader" Line="293" Column="5" />
+      <File FileName="Assets\Shaders\AlienShaderLOD3.shader" Line="130" Column="47" />
+      <File FileName="Assets\Shaders\AlienShaderLOD0.shader" Line="291" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
